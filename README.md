@@ -3,8 +3,8 @@ The initialization processes and aftermath of the bootcamp program. The dataset 
 
 ## Importance 
 
-# Information concerning the Dataset
+## Information concerning the Dataset
 
-# Methods & Methodology
+## Methods & Methodology
 
-# Outcomes and Aftermath
+## Outcomes and Aftermath
